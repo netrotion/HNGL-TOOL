@@ -1,9 +1,9 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://cdn.dribbble.com/users/286354/screenshots/1207913/media/209d6cf5313cb0b05508202b8212f501.gif" alt="Markdownify" width="200"></a>
   <br>
-  Markdownify
+  LeHungTheDev
   <br>
 </h1>
 
@@ -31,8 +31,6 @@
   <a href="#related">Related</a> •
   <a href="#license">License</a>
 </p>
-
-![screenshot](https://cdn.dribbble.com/users/286354/screenshots/1207913/media/209d6cf5313cb0b05508202b8212f501.gif)
 
 ## Key Features
 
